@@ -2,9 +2,7 @@
 
 A little about yours truly:
 
-* 🔭 I’m currently working on rounding out my data science skills by focusing on SQL and all things data analytics. 
-
-* 📫 You can reach me through my <a href="https://www.sean-atkinson.com/">website</a> or on <a href="https://www.linkedin.com/in/atkinson-sean/">LinkedIn</a>.
+* 🔭 I’m a General Assembly trained data scientist who's currently heavy into all things SQL and data analysis. 
 
 * ⚡ Fun facts about me: 
   * I'm a Liverpool FC supporter
@@ -13,6 +11,13 @@ A little about yours truly:
   * Absurdist humour is my jam
   * My nine-month-old likes to test my devotion to her on a daily basis by placing herself in increasingly dangerouns positions
 
+You can find me here:
+<br>
+<a href="https://www.sean-atkinson.com/">
+    <img height="40" src="https://cdn4.iconfinder.com/data/icons/essentials-74/24/004_-_Website-1024.png"/>
+<a href="https://www.linkedin.com/in/atkinson-sean/">
+    <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
 
 <!--
 **sean-atkinson/sean-atkinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
