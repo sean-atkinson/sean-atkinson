@@ -9,7 +9,7 @@ A little about yours truly:
   * I love Formula 1
   * I think grey gloomy weather is the best weather
   * Absurdist humour is my jam
-  * My nine-month-old likes to test my devotion to her on a daily basis by placing herself in increasingly dangerouns positions
+  * My nine-month-old likes to test my devotion to her on a daily basis by placing herself in increasingly dangerous positions
 
 You can find me here:
 <br>
