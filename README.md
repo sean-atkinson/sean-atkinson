@@ -2,7 +2,7 @@
 
 A little about yours truly:
 
-* 🔭 I’m a General Assembly trained data scientist who's currently heavy into all things SQL and data analysis. 
+* 🔭 I’m a General Assembly trained data scientist who's currently heavy into all things SQL, python, and data analysis. 
 
 * ⚡ Fun facts about me: 
   * I'm a Liverpool FC supporter
