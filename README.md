@@ -9,7 +9,7 @@ A little about yours truly:
   * I love Formula 1
   * I think grey gloomy weather is the best weather
   * I find great joy in the seemingly illogical and nonsensical
-  * My eleven-month-old likes to test my devotion to her on a daily basis by placing herself in increasingly dangerous situations
+  * My one-year-old likes to test my devotion to her on a daily basis by placing herself in increasingly dangerous situations
 
 Some of the languages and tools I use:
 <div>
