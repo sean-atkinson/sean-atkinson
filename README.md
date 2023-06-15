@@ -7,6 +7,7 @@ A little about yours truly:
 * ⚡ Fun facts about me: 
   * I'm a Liverpool FC supporter
   * I love Formula 1
+  * I'm a runner
   * I think grey gloomy weather is the best weather
   * I find great joy in the seemingly illogical and nonsensical
   * My one-year-old likes to test my devotion to her on a daily basis by placing herself in increasingly dangerous situations
