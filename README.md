@@ -1,8 +1,8 @@
-### Hello stranger who may or may not be stalking me... 👋🏾 
+### Hello person I do not know yet... 👋🏾 
 
 A little about yours truly:
 
-* 🔭 I’m a General Assembly trained data scientist who's currently heavy into all things SQL, python, and data analysis. 
+* 🔭 I’m a General Assembly trained data scientist who's currently heavy into all things SQL, Tableau, Python, and data analysis. 
 
 * ⚡ Fun facts about me: 
   * I'm a Liverpool FC supporter
