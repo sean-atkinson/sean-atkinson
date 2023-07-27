@@ -2,7 +2,7 @@
 
 A little about yours truly:
 
-* 🔭 I’m a data analyst who's currently heavy into all things SQL, Tableau, Python, and Excel. 
+* 👨🏾‍💻 I’m a data analyst who's currently heavy into all things SQL, Tableau, Python, and Excel. 
 
 * ⚡ Fun facts about me: 
   * I'm a Liverpool FC supporter
