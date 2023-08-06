@@ -1,4 +1,4 @@
-### Hello person I do not know yet... 👋🏾 
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sean!
 
 A little about yours truly:
 
