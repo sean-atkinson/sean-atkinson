@@ -1,16 +1,14 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sean!
 
-A little about yours truly:
-
-* 👨🏾‍💻 I’m a data analyst who's currently heavy into all things SQL, Tableau, Python, and Excel. 
-
-* ⚡ Fun facts about me: 
+* ⚡ A little about yours truly: 
+  * Toronto is home. 
+  * The furthest city from Toronto in the world? That’s where my wife was born.
   * I'm a Liverpool FC supporter
   * I love Formula 1
   * I'm a runner
   * I think gloomy weather is the best weather
   * I find great joy in the seemingly illogical and nonsensical
-  * My one-year-old likes to test my devotion to her on a daily basis by placing herself in increasingly dangerous situations
+  * My two-year-old likes to test my devotion to her on a daily basis by placing herself in increasingly dangerous situations
 
 Some of the languages and tools I use:
 <div>
