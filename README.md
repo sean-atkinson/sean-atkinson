@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Sean!
 
-* ⚡ A little about yours truly: 
+* ⚡ A little about me: 
   * Toronto is home. 
   * The furthest city from Toronto in the world? That’s where my wife was born.
   * I'm a Liverpool FC supporter. 
