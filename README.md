@@ -3,12 +3,12 @@
 * ⚡ A little about yours truly: 
   * Toronto is home. 
   * The furthest city from Toronto in the world? That’s where my wife was born.
-  * I'm a Liverpool FC supporter
-  * I love Formula 1
-  * I'm a runner
-  * I think gloomy weather is the best weather
-  * I find great joy in the seemingly illogical and nonsensical
-  * My two-year-old likes to test my devotion to her on a daily basis by placing herself in increasingly dangerous situations
+  * I'm a Liverpool FC supporter. 
+  * I love Formula 1. 
+  * I'm a runner. 
+  * I think gloomy weather is the best weather. 
+  * I find great joy in the seemingly illogical and nonsensical. 
+  * My two-year-old likes to test my devotion to her on a daily basis by placing herself in increasingly dangerous situations. 
 
 Some of the languages and tools I use:
 <div>
