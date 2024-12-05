@@ -25,10 +25,8 @@ Some of the languages and tools I use:
 </div>
 
 <br>
-You can find me here:
+You can also find me here:
 <br>
-<a href="https://www.sean-atkinson.com/">
-    <img height="40" src="https://cdn4.iconfinder.com/data/icons/essentials-74/24/004_-_Website-1024.png"/>
 <a href="https://www.linkedin.com/in/atkinson-sean/">
     <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
